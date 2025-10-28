@@ -9,7 +9,7 @@
       <b>
         Hey!
         <br />
-        I'm Armin Babaei, somewhere between code -> design <- sew.
+        I'm Armin Babaei, somewhere between code -> design <- sew
       </b>
       <br />
       <img
