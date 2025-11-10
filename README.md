@@ -33,9 +33,9 @@
     <h2></h2>
     <p align="center">
       <samp>
-        [ <a href="https://arminbabaei.com/about">about me</a> .
-        <a href="https://arminbabaei.com/projects">projects</a> .
-        <a href="mailto:armin.babaei@me.com">contact</a> .
+        [ <a href="https://www.arminbabaei.com/#about">about</a> .
+        <a href="https://www.arminbabaei.com/#experience">experience</a> .
+        <a href="https://arminbabaei.com/#projects">projects</a> .
         <a href="https://github.com/sponsors/itsarminbabaei">sponsor</a> ]
       </samp>
     </p>
