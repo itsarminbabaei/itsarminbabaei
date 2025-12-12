@@ -9,7 +9,7 @@
       <b>
         Hey!
         <br />
-        I'm Armin Babaei, I dream in systems.
+        I'm Armin, I dream in systems.
       </b>
       <br />
       <img
