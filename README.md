@@ -34,36 +34,9 @@
     <p align="center">
       <samp>
         [ <a href="https://www.arminbabaei.com/#about">about</a> .
-        <a href="https://www.arminbabaei.com/#experience">experience</a> .
-        <a href="https://arminbabaei.com/#projects">projects</a> .
         <a href="https://github.com/sponsors/itsarminbabaei">sponsor</a> ]
       </samp>
     </p>
-    <h2></h2>
-    <br />
-    <div align="center">
-      <table>
-        <tr>
-          <td>
-            <a href="#--------">
-              <img
-                align="center"
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=itsarminbabaei&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&bg_color=282828&title_color=ebdbb2&text_color=ebdbb2&icon_color=98971a&border_color=504945"
-              />
-            </a>
-          </td>
-          <td>
-            <a href="#--------">
-              <img
-                align="center"
-                alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsarminbabaei&hide_progress=true&layout=compact&hide_border=true&langs_count=10&bg_color=282828&title_color=ebdbb2&text_color=ebdbb2&icon_color=98971a&border_color=504945"
-              />
-            </a>
-          </td>
-        </tr>
-      </table>
     </div>
   </details>
 </div>
