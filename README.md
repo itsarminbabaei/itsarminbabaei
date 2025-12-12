@@ -18,25 +18,4 @@
       />
     </samp>
   </p>
-  <p align="right">
-    <strong>
-      <samp>」</samp>
-    </strong>
-  </p>
-  <details>
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br />
-    <h2></h2>
-    <p align="center">
-      <samp>
-        [ <a href="https://www.arminbabaei.com/#about">about</a> .
-        <a href="https://github.com/sponsors/itsarminbabaei">sponsor</a> ]
-      </samp>
-    </p>
-    </div>
-  </details>
 </div>
